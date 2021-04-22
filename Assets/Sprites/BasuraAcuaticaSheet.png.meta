@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 3fd7e875638f36141b0cce509dfb1724
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -85584198916644005
+    second: BasuraAcuaticaSheet_0
+  - first:
+      213: 9090635610720232164
+    second: BasuraAcuaticaSheet_1
+  - first:
+      213: 8500496159403775955
+    second: BasuraAcuaticaSheet_2
+  - first:
+      213: 6028946933884043124
+    second: BasuraAcuaticaSheet_3
+  - first:
+      213: 5581358694532502804
+    second: BasuraAcuaticaSheet_4
+  - first:
+      213: 4811089171743310443
+    second: BasuraAcuaticaSheet_5
+  - first:
+      213: 11161674742903379
+    second: BasuraAcuaticaSheet_6
+  - first:
+      213: -3195853952139626040
+    second: BasuraAcuaticaSheet_7
+  - first:
+      213: -426218030141707780
+    second: BasuraAcuaticaSheet_8
+  - first:
+      213: 3581878187674567445
+    second: BasuraAcuaticaSheet_9
+  - first:
+      213: -8487103894357554504
+    second: BasuraAcuaticaSheet_10
+  - first:
+      213: -6184865860962188144
+    second: BasuraAcuaticaSheet_11
+  - first:
+      213: 6496999771714930447
+    second: BasuraAcuaticaSheet_12
+  - first:
+      213: -2076885010403018042
+    second: BasuraAcuaticaSheet_13
+  - first:
+      213: -2111138502394037237
+    second: BasuraAcuaticaSheet_14
+  - first:
+      213: 6093556330096389720
+    second: BasuraAcuaticaSheet_15
+  - first:
+      213: 4338396940539409223
+    second: BasuraAcuaticaSheet_16
+  - first:
+      213: -2653711380607793462
+    second: BasuraAcuaticaSheet_17
+  - first:
+      213: 8594775740313931546
+    second: BasuraAcuaticaSheet_18
+  - first:
+      213: -5914246374257771845
+    second: BasuraAcuaticaSheet_19
+  - first:
+      213: 4581113022895407328
+    second: BasuraAcuaticaSheet_20
+  - first:
+      213: 4474680258605759582
+    second: BasuraAcuaticaSheet_21
+  - first:
+      213: -5807599495639401313
+    second: BasuraAcuaticaSheet_22
+  - first:
+      213: 1411448619980137609
+    second: BasuraAcuaticaSheet_23
+  - first:
+      213: -6584011459977673549
+    second: BasuraAcuaticaSheet_24
+  - first:
+      213: -342231424968201234
+    second: BasuraAcuaticaSheet_25
+  - first:
+      213: 7786529291537280301
+    second: BasuraAcuaticaSheet_26
+  - first:
+      213: 3966248544797234093
+    second: BasuraAcuaticaSheet_27
+  - first:
+      213: -8243488414458569352
+    second: BasuraAcuaticaSheet_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1802
+        width: 293
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ee777cec682e70800000000000000
+      internalID: 9090635610720232164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2181
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d795db2834d7f570800000000000000
+      internalID: 8500496159403775955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1802
+        width: 254
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fb6db2b4f1ba350800000000000000
+      internalID: 6028946933884043124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_4
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1833
+        width: 370
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415d5af4928f47d40800000000000000
+      internalID: 5581358694532502804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1807
+        width: 441
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b620d788c1c64c240800000000000000
+      internalID: 4811089171743310443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1907
+        width: 275
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352362aeb77a72000800000000000000
+      internalID: 11161674742903379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1347
+        width: 334
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf96984b5f4c51af0800000000000000
+      internalID: -426218030141707780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_9
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1499
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513001deb3365b130800000000000000
+      internalID: 3581878187674567445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1448
+        width: 542
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bacbf489ffb73a80800000000000000
+      internalID: -8487103894357554504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1323
+        width: 360
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09488eda441fa2aa0800000000000000
+      internalID: -6184865860962188144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1325
+        width: 292
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07ccdaaedaf92a50800000000000000
+      internalID: 6496999771714930447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 585
+        width: 534
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca389b361c6d23e0800000000000000
+      internalID: -2076885010403018042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_14
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 620
+        width: 548
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3725a7bab3b2e0800000000000000
+      internalID: -2111138502394037237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 724
+        width: 400
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6a3a7239a09450800000000000000
+      internalID: 6093556330096389720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 765
+        width: 396
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7433e771805153c30800000000000000
+      internalID: 4338396940539409223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 239
+        width: 232
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a1acaa09769310800000000000000
+      internalID: 1411448619980137609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_24
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 222
+        width: 315
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b40ee2f574e0a4a0800000000000000
+      internalID: -6584011459977673549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_25
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 305
+        width: 231
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb6bcb0556204bf0800000000000000
+      internalID: -342231424968201234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 223
+        width: 390
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de047c22f4f0c60800000000000000
+      internalID: 7786529291537280301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraAcuaticaSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 0
+        width: 447
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da39c839902fa0730800000000000000
+      internalID: 3966248544797234093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

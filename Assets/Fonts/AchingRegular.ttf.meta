@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2d781e8c4b1013843b9c54e8cd2f86b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aching
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 541c237ca349a9048a443fae5c34d923, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
