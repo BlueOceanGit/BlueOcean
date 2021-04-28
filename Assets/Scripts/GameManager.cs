@@ -19,6 +19,8 @@ public class GameManager : MonoBehaviour
     public Image infoImage;
     public Text infoText;
 
+    public GameObject burbujas;
+
     //Para poder mover el fondp
     public Movimientofondo VelocidadDelFondo;
 
@@ -47,6 +49,7 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1;
         startButton.gameObject.SetActive(true);
         infoImage.gameObject.SetActive(false);
+        burbujas.gameObject.SetActive(false);
     }
 
     void Update()
@@ -91,24 +94,28 @@ public class GameManager : MonoBehaviour
             int animalText = Random.Range(0, dolphinInfo.Length);
             infoText.text = dolphinInfo[animalText] +".";
             infoImage.gameObject.SetActive(true);
+            burbujas.gameObject.SetActive(true);
         }
         else if (fishInstance.tag == "Turtle")
         {
             int animalText = Random.Range(0, turtleInfo.Length);
             infoText.text = turtleInfo[animalText] + ".";
             infoImage.gameObject.SetActive(true);
+            burbujas.gameObject.SetActive(true);
         }
         else if (fishInstance.tag == "Fish")
         {
             int animalText = Random.Range(0, fishInfo.Length);
             infoText.text = fishInfo[animalText] + ".";
             infoImage.gameObject.SetActive(true);
+            burbujas.gameObject.SetActive(true);
         }
         else
         {
             int animalText = Random.Range(0, sealInfo.Length);
             infoText.text = sealInfo[animalText] + ".";
             infoImage.gameObject.SetActive(true);
+            burbujas.gameObject.SetActive(true);
 
         }
 
