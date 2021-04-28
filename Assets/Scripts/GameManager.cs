@@ -22,6 +22,7 @@ public class GameManager : MonoBehaviour
     //Para poder mover el fondp
     public Movimientofondo VelocidadDelFondo;
 
+
     public string[] fishInfo = new string[] { "", 
     "",
         "Sdan con las mascarillas y mueren asfixiados", "Páramo "};
@@ -37,6 +38,9 @@ public class GameManager : MonoBehaviour
     public GameObject[] animals;
     private GameObject fishInstance;
     public Vector2 spawnPos;
+
+   
+
 
     void Awake()
     {
@@ -113,6 +117,6 @@ public class GameManager : MonoBehaviour
 
     public void Return()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("PantallaInicio");
     }
 }
